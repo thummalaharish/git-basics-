@@ -1,0 +1,6 @@
+
+Switch
+Router
+Acess Point
+Server
+Load Balancer
